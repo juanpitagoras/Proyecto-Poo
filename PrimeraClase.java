@@ -7,10 +7,13 @@ public class PrimeraClase extends Asiento {
 
     @Override
     public boolean Reservar();
-    
+
     @Override
     public boolean Liberar();
 
     @Override
     public boolean estaDisponible();
+
+    // Implementación de los métodos abstractos de la clase Asiento
+
 }

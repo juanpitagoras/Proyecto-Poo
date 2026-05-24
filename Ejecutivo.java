@@ -13,5 +13,6 @@ public  class Ejecutivo extends Asiento {
 
     @Override
     public boolean estaDisponible();
-    
+
+    // Implementación de los métodos abstractos de la clase Asiento
 }
